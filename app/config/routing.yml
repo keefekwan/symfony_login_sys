@@ -1,0 +1,4 @@
+simple_profile:
+    resource: "@SimpleProfileBundle/Resources/config/routing.yml"
+    prefix:   /
+
